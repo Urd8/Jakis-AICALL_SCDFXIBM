@@ -1,10 +1,11 @@
 ## Team Description
 Hello Judges. We are the Jakis. The team consists of the following:
 
-Alfred - Temasek Polytechnic (Team Leader)
-Kin - Temasek Polytechnic
-Sherman - Temasek Polytechnic
-Iqbal - Temasek Polytechnic
+* Alfred - Temasek Polytechnic (Team Leader)
+* Kin - Temasek Polytechnic
+* Sherman - Temasek Polytechnic
+* Iqbal - Temasek Polytechnic
+* Juraimi - Temasek Polytechnic
 
 We are Year 3 Students from the Diploma of Cybersecurity and Digital Forensics, and although the scope of the competition is a little outside of what we learnt, we were very excited to participate in this Call for Code Challenge.
 
