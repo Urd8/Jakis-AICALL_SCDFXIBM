@@ -1,5 +1,6 @@
 ## Team Description
 Hello Judges. We are the Jakis. The team consists of the following:
+
 Alfred - Temasek Polytechnic (Team Leader)
 Kin - Temasek Polytechnic
 Sherman - Temasek Polytechnic
@@ -22,6 +23,7 @@ https://www.youtube.com/watch?v=Si-FEZ7vTlU&feature=youtu.be
 Our Soultion will be mainly based on a React Webapp, with calls to the IBM Visual Recognition API and the IBM Voice Recognition Module.
 
 ## Detailed Solution
+https://pastebin.com/WHDuPPZM
 
 ## Getting Started
 For this example, we have used the React Webapp that can be found from the IBM Tutorial Series on Visual Recognition. The following are instructions to start the React WebApp
