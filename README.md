@@ -1,4 +1,4 @@
-##Team Description
+## Team Description
 Hello Judges. We are the Jakis. The team consists of the following:
 Alfred - Temasek Polytechnic (Team Leader)
 Kin - Temasek Polytechnic
@@ -8,22 +8,22 @@ Iqbal - Temasek Polytechnic
 We are Year 3 Students from the Diploma of Cybersecurity and Digital Forensics, and although the scope of the competition is a little outside of what we learnt, we were very excited to participate in this Call for Code Challenge.
 
 
-##Problem Statement
+## Problem Statement
 From the problem statement, the problem we wanted to tackle was the "Integrating with a Smart Environment". As Singapore gets more and more developed, there are more IOT Devices available. SCDF's Resources are limited, and they cannot be deployed to everywhere at once, so how do we better priorotise the delegation of the SCDF Resources? Well, we can use the ever increasing number of IOT Devices to help us out with that.
 
-##Solution
+## Solution
 What our team proposes is an AI Assistant that will be answering 995 calls together with the SCDF Operator. How the AI Assistant works is that as the call progresses, it will take in and analyse different datasets, such as tone of voice, images of the incident at the location etc, in order to determine the severity of the incident. The AI Assistant will then output the results to the Operator's Workstation, and will then determine whether the incident is severe or not, as well as showing the key evidences that show whether it is severe or not. The SCDF Operator can then decide whether it is suitable to delegate Precious SCDF Resources or the Community First Responders (MyResponder) for less severe incidents.
 
-##Pitch Video
+## Pitch Video
 The following is a link to our Pitch Video
 https://www.youtube.com/watch?v=Si-FEZ7vTlU&feature=youtu.be
 
-##Architecture of Proposed Soulution
+## Architecture of Proposed Soulution
 Our Soultion will be mainly based on a React Webapp, with calls to the IBM Visual Recognition API and the IBM Voice Recognition Module.
 
-##Detailed Solution
+## Detailed Solution
 
-##Getting Started
+## Getting Started
 For this example, we have used the React Webapp that can be found from the IBM Tutorial Series on Visual Recognition. The following are instructions to start the React WebApp
 
 ## Setup
